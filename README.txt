@@ -20,5 +20,5 @@ when you click file, it starts directly.
 With the direction keys on our keyboard, we will try to keep our distance with the Friends characters coming toward Mathilda.
 
 Contributers:
-Selen ÇİĞDEM-18050111006
-Feyza ÜRKUT-17050111015
+Selen ÇİĞDEM
+Feyza ÜRKUT
